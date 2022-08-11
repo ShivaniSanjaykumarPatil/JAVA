@@ -1,4 +1,4 @@
-public class Patterns 
+public class Pattern_Program 
 {
     public static void main(String[] args) 
     {
