@@ -1,4 +1,4 @@
-public class Patterns
+public class Advanced_Patterns
 {
     public static void main(String[] args)
     {
