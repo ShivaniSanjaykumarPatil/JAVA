@@ -1,4 +1,4 @@
-public class Patterns
+public class Heart
 {
     public static void main(String[] args)
     {
